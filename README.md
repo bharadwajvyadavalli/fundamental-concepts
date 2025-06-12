@@ -1,38 +1,45 @@
-# ML Engineering Interview Preparation Materials
+# Fundamental Concepts
 
 A comprehensive collection of interview preparation resources for Machine Learning Engineers, Data Scientists, and ML-focused Software Engineers.
 
 ## Repository Overview
 
-This repository contains curated materials to help you prepare for various aspects of technical interviews in the ML/AI field, including behavioral questions, system design, theoretical concepts, and cross-team communication strategies.
+This repository contains curated materials to help you prepare for various aspects of technical interviews in the ML/AI field, including system design, coding patterns, behavioral questions, and machine learning theory.
 
 ## Contents
 
-### 📝 Interview Guides
+### 🏗️ System Design
+- **System Design Guide.pdf**: Comprehensive guide for tackling system design interviews, covering architecture patterns, scalability considerations, and best practices for designing large-scale systems.
 
-- **Behavioral Interview Prep.pdf**: Strategies for answering behavioral questions, STAR method examples, and common scenarios for ML engineers.
+### 💻 Coding Preparation
+- **Mastering Coding Patterns.pdf**: Essential coding patterns and algorithms commonly tested in technical interviews, with detailed explanations and problem-solving strategies.
 
-- **CrossTeam Communication.pdf**: Guidelines for demonstrating effective cross-functional collaboration skills, working with product managers, data scientists, and software engineers.
+### 📝 Behavioral Interview
+- **Behavioral Interview STAR Method Guide.pdf**: Complete guide to the STAR (Situation, Task, Action, Result) method for answering behavioral questions effectively, with examples tailored for ML engineering roles.
 
-- **Product Design Questions.pdf**: Frameworks for tackling product design questions in ML contexts, including requirement gathering, metric definition, and solution evaluation.
-
-### 🧠 Technical Preparation
-
-- **ML Case Study Scenarios.pdf**: Real-world machine learning problems similar to those asked in interviews, with structured approaches to solving them.
-
-- **ML System Design Problems.pdf**: End-to-end ML system design questions with architecture considerations, data processing pipelines, serving infrastructure, and monitoring solutions.
-
-- **Machine Learning Theory Questions.pdf**: Essential ML theory concepts commonly tested in interviews, including algorithms, evaluation metrics, and mathematical foundations.
+### 🧠 Machine Learning Theory
+- **Machine Learning Theory Questions.pdf**: Fundamental ML concepts, algorithms, and theoretical questions frequently asked in interviews, covering supervised/unsupervised learning, deep learning, and evaluation metrics.
 
 ## How to Use This Repository
 
-1. **Assessment**: Begin by identifying which areas you need to focus on most based on the roles you're targeting and your existing strengths.
+1. **Start with Assessment**: Identify which areas you need to focus on based on your target roles and current strengths.
 
-2. **Structured Practice**: Set aside dedicated time for each document, taking notes and implementing active recall techniques.
+2. **Structured Study Plan**: 
+   - Begin with the System Design Guide if targeting senior roles
+   - Review Coding Patterns for algorithm-heavy interviews
+   - Practice STAR method responses for behavioral rounds
+   - Master ML theory for technical deep-dives
 
-3. **Mock Interviews**: Use these materials as the basis for mock interviews with peers or mentors.
+3. **Active Practice**: Don't just read - practice implementing solutions, mock system designs, and rehearse behavioral responses.
 
-4. **Review & Reflect**: After each real interview, compare the questions you received with the materials here to identify gaps for further study.
+4. **Mock Interviews**: Use these materials as the foundation for mock interview sessions with peers or mentors.
+
+## Interview Preparation Tips
+
+- **System Design**: Focus on trade-offs, scalability, and real-world constraints
+- **Coding**: Practice pattern recognition and time/space complexity analysis
+- **Behavioral**: Prepare 2-3 strong examples for common themes (leadership, conflict, failure)
+- **ML Theory**: Understand both intuition and mathematical foundations
 
 ## Contributing
 
@@ -46,7 +53,7 @@ Please ensure any new content follows the existing format and quality standards.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This repository is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -55,4 +62,4 @@ This repository is licensed under the [MIT License](LICENSE) - see the LICENSE f
 
 ---
 
-**Note**: These materials are meant to be preparation guides and not comprehensive solutions. Success in interviews also depends on practical experience and deep understanding of machine learning concepts.
+**Note**: These materials are meant to be preparation guides and not comprehensive solutions. Success in interviews also depends on practical experience, continuous learning, and the ability to communicate your knowledge effectively.
